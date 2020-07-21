@@ -380,6 +380,10 @@ footer * {
     box-sizing: border-box;
 }
 
+footer {
+    width: 100%;
+}
+
 .column {
     float: left;
     padding: 10px;
